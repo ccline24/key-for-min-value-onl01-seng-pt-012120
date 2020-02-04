@@ -3,7 +3,7 @@
 
 def key_for_min_value(name_hash)
  if name_hash == 1
-"adam"
+hash[adam]
 end
 end
 
