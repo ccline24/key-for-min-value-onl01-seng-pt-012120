@@ -4,7 +4,7 @@
 def key_for_min_value(name_hash)
  if name_hash == 1
 name  
-
+end
 end
 
 # hash = {:blake => 500, :ashley => 2, :adam => 1}
