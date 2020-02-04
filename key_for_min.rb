@@ -3,8 +3,10 @@
 
 def key_for_min_value(name_hash)
  if name_hash == 1
+guy_1 = :adam
 
 end
+guy_1
 end
 
 # hash = {:blake => 500, :ashley => 2, :adam => 1}
