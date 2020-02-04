@@ -3,7 +3,7 @@
 
 def key_for_min_value(name_hash)
  if name_hash == 1
-guy_1 = :adam
+guy_1 = "adam"
 
 end
 guy_1
